@@ -15,8 +15,14 @@
 - [x] 워치 스터디 30분
 
 ## 🎉 셀프 피드백
-- 🤗 칭찬: ...
-- 🤔 반성: 첫날인데 달성률이 절반도 안되는게 실화인가... 운동을 못하더라도 나머지 항목들은 자기전까지 마저 진행할 수 있도록 해야겠다.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25"> 격려하기</img>
+
+> 오늘도 수고했어
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25"> 반성하기</img>
+
+> 첫날인데 달성률이 절반도 안되는게 실화인가... 운동을 못하더라도 나머지 항목들은 자기전까지 마저 진행할 수 있도록 해야겠다.
 
 ## 🌱 Next
 - 한입 Next 챌린지 Day02
