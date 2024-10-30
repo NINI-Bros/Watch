@@ -18,8 +18,14 @@
 - [x] 워치 회고 스터디 30분
 
 ## 🎉 셀프 피드백
-- 🤗 칭찬: 꾸준히 포기하지 않는 모습 최고!
-- 🤔 반성: 낮잠을 너무 길게 잤던 것 같아요. 일찍 자고 점심을 적게 먹도록 해야 겠습니다.
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hugging%20Face.png" alt="Hugging Face" width="25" height="25"> 격려하기</img>
+
+> 꾸준히 포기하지 않는 모습 최고!
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25"> 번성하기</img>
+
+> 낮잠을 너무 길게 잤던 것 같아요. 일찍 자고 점심을 적게 먹도록 해야 겠습니다.
 
 ## 🌱 Next
 - [ ] 한입 Next 챌린지 Day02
