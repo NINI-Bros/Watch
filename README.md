@@ -1,13 +1,7 @@
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=The%20Watch%20Study&fontSize=42" >
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&width=100%&height=150&section=header&text=The%20Watch%20Study&fontSize=42" >
 </div>
-<center>
-    계획을 세우고, 실행하고, 감시하는 회고 스터디
-</center>
-<div style="text-align:center">
-
-</div>
-
+<div align="center">계획을 세우고, 실행하고, 감시하는 회고 스터디</div>
 
 ## ✨회고 주제
 - 계획 세우고 액션 (운동, 공부, 코딩 등등)
@@ -29,8 +23,11 @@
 - 인원 맞춰 시간 조정
 - 사회자는 모든 인원 돌아가면서
 - 회고 양식에 맞춰 미리 작성
-  -![image](https://github.com/user-attachments/assets/3fc77c17-f3d4-4cce-ab83-20189070df55)
-  > 회고양식 샘플
+  
+    |![image](https://github.com/user-attachments/assets/4c03e129-5439-4c2c-8e8e-e900de401a47)|
+   |:----:|
+   |**회고 양식 샘플**|
+ 
 
 ## 💚 향후 기수 모집 방식
 - 멋사 | 인프런 | 한입 커뮤니티
