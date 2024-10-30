@@ -21,6 +21,7 @@
 - 인원 맞춰 시간 조정
 - 사회자는 모든 인원 돌아가면서
 - 회고 양식에 맞춰 미리 작성
+  -![image](https://github.com/user-attachments/assets/3fc77c17-f3d4-4cce-ab83-20189070df55)
   > 회고양식 샘플
 
 ## 💚 향후 기수 모집 방식
