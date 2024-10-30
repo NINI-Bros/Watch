@@ -1,5 +1,13 @@
-# 🕶️ The Watch Study
-계획을 세우고, 실행하고, 감시하는 회고 스터디
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=The%20Watch%20Study&fontSize=42" >
+</div>
+<center>
+    계획을 세우고, 실행하고, 감시하는 회고 스터디
+</center>
+<div style="text-align:center">
+
+</div>
+
 
 ## ✨회고 주제
 - 계획 세우고 액션 (운동, 공부, 코딩 등등)
