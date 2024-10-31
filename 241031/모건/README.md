@@ -13,7 +13,7 @@
 
 - [x] 한입 Next 챌린지 Day02
 - [ ] 소프티어 Lv01 4개 풀기
-- [ ] 현대카드 지원 작성 시작
+- [ ] 현대카드 지원 작성 시작 -> 합격 자소서 자료조사 (8건 수집)
 - [x] 워치 회고 스터디 30분
 - [ ] 운동 30분
 
@@ -23,11 +23,11 @@
 
 > 다시 잠들긴 했지만, 일찍 자고 일찍 일어나서 칭찬해 ~
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25"> 번성하기</img>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25"> 반성하기</img>
 
 > 코딩테스트 문제 푸는 부분을 효율적으로 접근할 필요가 있어! </br>
 > 1시간이 넘어가도록 고민하고 끙끙거리니까 지치게 되는거지. </br>
-> 20자 이상 제자리 맴도는 느낌이 들면 해답을 찾고 넘어가도록 하자
+> 20분 이상 제자리를 맴도는 느낌이 들면 해답을 찾고 넘어가도록 하자
 
 ## 🌱 Next
 
